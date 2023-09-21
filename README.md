@@ -26,6 +26,8 @@ Currently, I am a GitHub campus expert 🐙 , where I work hand in hand with fel
 
 I caught an interest in data science, machine learning and AI, slowly but surely get there 📊 📈 📉 💹.
 
+# Creative Arts 🎨 🖌️
+
 I love curating and doing creative arts 🎨 , whilst with phone 📱 and camera 📸 I enjoy photography 📷 and videography 📹 capturing images and motion pictures that tell stories 🙊 . While on my PC 💻 I am a seasoned graphics designer 🎨 🖌️, creative photographer 📸 and video editor 📹 . Offline I do poetry 📜 , pencil sketching 📝 and read books 📚 .
 
 ## Work In Progress 🚧
