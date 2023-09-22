@@ -37,7 +37,7 @@ I love curating and doing creative arts 🎨 , whilst with phone 📱 and camera
 - 👯 I’m looking to collaborate on  DMHCS
 - 🤔 I’m looking for help with a mentor to grow career-wise
 - 💬 Ask me about Python 🐍 and Django 
-- 📫 How to reach me: ...
+- 📫 How to reach me: 📧 <alexgmkwizu@gmail.com>
 - 😄 Pronouns: He | Him | Man
 - ⚡ Fun fact: Wanted to be a Priest 😆 when I was young, then an Electrical Engineer, then a Mechanical Engineer, now I am a software engineer because I believe will solve effectively problems within my communities and be able to scale them. 
 
