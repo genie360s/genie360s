@@ -16,9 +16,11 @@ Here are some ideas to get you started:
 -->
 ## About Me 🥷🏾
 
+### Software Engineering | Data Analysis | Community Building |UI & UX Design
+
 This is Alex Mkwizu 🧔🏾‍♂️, a passionate problem solver ⚙️ who believes 💭 in solving problems 🛠️ and evaluating ⚖️the best way to scale them through technology 👨🏾‍💻 to reach a large base of the community 👥. I am proficient with Python 🐍 and my best framework is Django. I use the HCD (Human Centred Design ) approach to tackle problems best at their core 🔥. I use Figma to design the best UI 🎨 ( User Interfaces ) and use my creative skills to curate the best UX 🖌️ ( User Experience ) for the system users 🧍 . 
 
-I love technical communities as my journey in software development started there. I build, mentor and consult student tech communities . I have been a Hub manager at the University Of Dar es Salaam ICT Hub ( Udicti ) where I helped fellow students learn technical skills by hosting expert sessions with industrial experts, teaching in workshops and hosting hackathons. Partaken in designing and implementing the Smart Girls In ICT Program as a community outreach program for Udicti Hub to the secondary girls students to spike their interest in STEM subjects, Innovation and Entrepreneurship.
+I love technical communities as my journey in software development started there. I build, mentor and consult student tech communities. I have been a Hub manager at the University Of Dar es Salaam ICT Hub ( Udicti ) where I helped fellow students learn technical skills by hosting expert sessions with industrial experts, teaching in workshops and hosting hackathons. Partaken in designing and implementing the Smart Girls In ICT Program as a community outreach program for Udicti Hub to the secondary girls students to spike their interest in STEM subjects, Innovation and Entrepreneurship reaching more than 1000+ girls.
 
 ## Github Campus Expert :octocat:
 
@@ -26,17 +28,24 @@ Currently, I am a GitHub campus expert 🐙 , where I work hand in hand with fel
 
 I caught an interest in data science, machine learning and AI, slowly but surely get there 📊 📈 📉 💹.
 
+## Postman Student Expert
+
+I am also a Postman Student expert, where I work with students and communities to advocate for API literacy, consuming APIs, designing APIs, API security and deploying APIs, have run workshops impacting more than 100+ students in cooperation with fellow community leaders in universities and outside universities.
+
+## OSCA Chapter Leader in Dar es Salaam, Tanzania
+
+I am currently working on establishing an open source Africa chapter in Tanzania , Dar es Salaam advocating for open source and welcoming newbies to contribute to open source projects as means to learn , give back to the community and build their portfolios. Started with hosting the first Hacktoberfest event in Tanzania , Dar es Salaam.
 ## Creative Arts 🎨 🖌️
 
 I love curating and doing creative arts 🎨 , whilst with phone 📱 and camera 📸 I enjoy photography 📷 and videography 📹 capturing images and motion pictures that tell stories 🙊 . While on my PC 💻 I am a seasoned graphics designer 🎨 🖌️, creative photographer 📸 and video editor 📹 . Offline I do poetry 📜 , pencil sketching 📝 and read books 📚 .
 
 ## Work In Progress 🚧
 
-- 🔭 I’m currently working on Digital Maternal Health Card System ( DMHCS )
-- 🌱 I’m currently learning Typescript and React.
+- 🔭 I’m currently working on findaily ( an open-source fintech platform that collects different forex rates from banks, stock prices and government mutual fund prices ) for normal citizen to compare prices and get the best.
+- 🌱 I’m currently learning Typescript and NEXT JS.
 - 👯 I’m looking to collaborate on  DMHCS
 - 🤔 I’m looking for help with a mentor to grow career-wise
-- 💬 Ask me about Python 🐍 and Django 
+- 💬 Ask me about Python 🐍, Data Analysis 📈 and Django 
 - 📫 How to reach me: 📧 <alexgmkwizu@gmail.com>
 - 😄 Pronouns: He | Him | Man
 - ⚡ Fun fact: Wanted to be a Priest 😆 when I was young, then an Electrical Engineer, then a Mechanical Engineer, now I am a software engineer because I believe will solve effectively problems within my communities and be able to scale them. 
