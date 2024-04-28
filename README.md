@@ -28,7 +28,7 @@ NB: My community has currently partnered with DataCamp Donates to offer 350 Data
 
 Currently, I am a GitHub campus expert 🐙 , where I work hand in hand with fellow campus experts in organising technical workshops, hackathons, tech career fairs and Twitter spaces that aim to build sustainable tech communities where students learn technical skills relevant to the current market and a chance to network with professionals in the IT space. Also, raise awareness of the GitHub Education Pack and the GitHub Campus Expert Program benefits and how students can leverage them.
 
-I caught an interest in data science, machine learning and AI, slowly but surely get there 📊 📈 📉 💹.
+
 
 ## Postman Student Expert
 
@@ -45,7 +45,7 @@ I love curating and doing creative arts 🎨 , whilst with phone 📱 and camera
 ## Work In Progress 🚧
 
 - 🔭 I’m currently working on findaily ( an open-source fintech platform that collects different forex rates from banks, stock prices and government mutual fund prices ) for normal citizen to compare prices and get the best.
-- 🌱 I’m currently learning Typescript and NEXT JS.
+- 🌱 I am learning  data science, machine learning and AI  📊 📈 📉 💹.
 - 👯 I’m looking to collaborate on  DMHCS & Findaily
 - 🤔 I’m looking for help with a mentor to grow career-wise
 - 💬 Ask me about Python 🐍, Data Analysis 📈 and Django 
