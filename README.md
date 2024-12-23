@@ -76,8 +76,8 @@ I love curating and doing creative arts 🎨 , whilst with phone 📱 and camera
 ![](https://github-contributor-stats.vercel.app/api?username=genie360s&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Since you visited my profile , let me make your day with laughter 💌
-<img src='https://codermemes.vercel.app/#2' style="height: 400px;"/>
-![](https://codermemes.vercel.app/#2)
+<img src='https://codermemes.vercel.app/images/meme11.png?cache=1734915701850' style="height: 400px;"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=genie360s&icon=0&color=0)](https://visitcount.itsvg.in)
